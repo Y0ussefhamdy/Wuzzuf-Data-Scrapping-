@@ -1,2 +1,2 @@
 # Wuzzuf-Data-Scrapping-
-Wuzzuf Engineering Jobs Data Scrapping 
+Wuzzuf Latest 20 Engineering Job offers Details Scrapping 
